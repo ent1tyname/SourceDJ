@@ -25,8 +25,9 @@ Note: this software requires a microphone to function.
 2. Extract everything into your game's root folder:
 3. Launch CS\:S v34
 4. Press **`Insert`** in-game to open the **SourceDJ Menu**
-5. Select and play any track from the interface
-6. Hold `K` (or another configured key) to play music; release it to pause, when needed.
+5. Create a playlist and add any sound file to it
+6. Select and play any track from the interface
+7. Hold `K` (or another configured key) to play music; release it to pause, when needed.
 
 > 🔊 Make sure in-game voice chat is enabled. Music is transmitted via your microphone stream.
 
