@@ -66,6 +66,7 @@ Note: this software requires a microphone to function.
 ## 📄 License
 
 This project is proprietary and distributed under a custom license. See [LICENSE](./LICENSE)
+
 Source code is not public.
 ---
 
